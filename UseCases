@@ -1,0 +1,4 @@
+1) Person should be a member of the Group: Authentication
+2) Group should be a model.
+3) Models: Person, Group, Transaction
+  
